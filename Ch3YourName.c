@@ -1,6 +1,6 @@
 /*
  * Driver Menu System for Homework
- * Ryan Nock - Aug 30, 2021  <-- Please put your name/date here
+ * Your Name - Aug 30, 2021  <-- Please put your name/date here
  */
 
 #include <stdio.h>   //header file for input/output - 
